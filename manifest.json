@@ -1,0 +1,9 @@
+{
+  "id": "mote",
+  "name": "Mote",
+  "version": "0.1.0",
+  "minAppVersion": "1.11.4",
+  "description": "AI chat for Obsidian.",
+  "author": "Mote",
+  "isDesktopOnly": false
+}

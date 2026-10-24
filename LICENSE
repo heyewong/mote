@@ -1,0 +1,93 @@
+MOTE PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — 2026-09-11
+
+Copyright (c) 2026 Mote. All rights reserved.
+
+This software, including its source code, compiled code, documentation, and
+associated materials (the "Software"), is proprietary to Mote and its
+copyright holders.
+
+1. Source code
+
+No permission is granted to use, copy, modify, publish, disclose, distribute,
+sublicense, or create derivative works from the source code except under a
+separate written agreement with the copyright holder. Access to a private
+source repository does not grant a license.
+
+2. Trial and purchased binary use
+
+Subject to these terms, the copyright holder grants an end user a limited,
+non-exclusive, non-transferable right to install and use an authorized
+compiled release of the Software:
+
+- during the trial period and within the trial limits presented by the
+  Software; or
+- after activation with a validly obtained license key.
+
+A purchased license key grants a perpetual, offline right to use the Mote
+v0.1.x major version. The purchase includes one year of version updates and
+Obsidian compatibility maintenance beginning on the activation date. The
+licensee may keep using forever the version acquired under this license, even
+after that one-year period ends; the license key does not expire and use is not
+forcibly suspended because the update period has ended.
+
+After the included year, access to later major feature versions (including
+v1.x and v2.x) and the official cloud synchronization service is available by
+renewing the update and service entitlement at the then-published renewal
+price. The current renewal price is CNY 299 per year. A renewal does not
+change the perpetual use right for versions already acquired.
+
+The licensee may use the Software on devices that the licensee owns or
+controls and may make one reasonable backup copy. A license key may not be
+published, shared, sold, rented, sublicensed, or used to activate copies for
+another person or organization.
+
+3. Restrictions
+
+Except where applicable law does not permit the restriction, the licensee may
+not:
+
+- copy or redistribute the Software except as expressly allowed above;
+- modify, translate, adapt, or create derivative works from the Software;
+- reverse engineer, decompile, disassemble, decrypt, or otherwise attempt to
+  derive source code or bypass technical protection measures;
+- bypass, tamper with, or defeat trial limits, activation, or license-key
+  validation;
+- remove or alter copyright, license, attribution, or proprietary notices; or
+- use the Software or a license key to provide unauthorized resale,
+  sublicensing, or hosted access to third parties.
+
+4. Ownership and third-party software
+
+The Software is licensed, not sold. The copyright holder retains all right,
+title, and interest in the Software other than the limited rights expressly
+granted above. Third-party components remain governed by their respective
+licenses and notices, including those listed in THIRD_PARTY_NOTICES.md. This
+license does not restrict rights granted directly by those third-party
+licenses.
+
+5. Termination
+
+The granted rights terminate if the licensee materially breaches these terms.
+Upon termination, the licensee must stop using and delete the affected copies
+of the Software. Rights relating to ownership, restrictions, disclaimers, and
+liability survive termination.
+
+6. Disclaimer and limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE
+COPYRIGHT HOLDER WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS,
+OR BUSINESS, ARISING FROM OR RELATED TO THE SOFTWARE.
+
+Nothing in these terms excludes or limits rights or liabilities that cannot be
+excluded or limited under applicable law.
+
+7. Acceptance
+
+Installing, activating, or using an authorized compiled release constitutes
+acceptance of these terms. If the user does not accept them, the user must not
+install, activate, or use the Software.
