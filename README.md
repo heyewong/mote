@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mote
-### Think with AI, right inside your Obsidian Vault.
+### 在 Obsidian 知识库里，和 AI 一起思考。
 
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20iOS%20%7C%20Android-blue)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-v1.11.4%2B-purple)](#)
